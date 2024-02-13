@@ -1,7 +1,7 @@
 {
 "name": "P@nda",
-"website": "https://www.mangata.finance"
+"website": "https://example.com/"
 "description": "This is a test node operator on Mangata test network",
-"logo": "https://pngtree.com/freepng/panda-logo_6514701.html",
+"logo": "https://example.com/logo.png",
 "twitter": "https://twitter.com/ct_pleb"
 }
